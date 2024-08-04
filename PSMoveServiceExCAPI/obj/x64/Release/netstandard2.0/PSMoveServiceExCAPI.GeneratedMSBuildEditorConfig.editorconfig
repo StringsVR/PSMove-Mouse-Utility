@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = PSMoveServiceExCAPI
+build_property.ProjectDir = C:\Users\Strings\Downloads\PSMoveServiceEx-CAPI.NET-master\PSMoveServiceExCAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
